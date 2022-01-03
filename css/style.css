@@ -269,7 +269,7 @@ font-size: 16px;
 /* HOME SECTION */
 
 #home {
-  background-image: url("../images/landing-steven-iphone.jpg");
+  background-image: url("../images/steven-landing-mobile.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
@@ -313,7 +313,7 @@ margin-bottom: 5%;
 @media (min-width: 600px) {
 
   #home {
-    background-image: url("../images/landing-steven-ipad.jpg");
+    background-image: url("../images/steven-landing-mobile.jpg");
   }
 
   #introname {
@@ -332,6 +332,10 @@ margin-bottom: 3%;
 }
 
 @media (min-width: 900px) {
+
+  #home {
+    background-image: url("../images/steven-landing-mobile.jpg");
+  }
 
   #homecont {
     padding-left: 7.5%;
@@ -355,7 +359,7 @@ font-size: 22px;
 @media (min-width: 1200px) {
 
   #home {
-    background-image: url("../images/landing-steven-1.jpg");
+    background-image: url("../images/steven-landing-desktop.jpg");
   }
 
   #introname {
