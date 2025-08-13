@@ -493,6 +493,13 @@ overflow:hidden;
     padding-bottom: 5%;
   }
 
+    #portitem1 {
+        object-fit: contain;
+    }
+
+    #portitem2 {
+        object-fit: contain;
+    }
 }
 
 @media (min-width: 900px) {
