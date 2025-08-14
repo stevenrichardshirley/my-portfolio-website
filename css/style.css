@@ -1040,7 +1040,7 @@ text-align: center;
 font-family: 'Cormorant', serif;
 font-weight: 700;
 color: #ffffff;
-font-size: 30px;
+font-size: 28px;
 padding-top: 10%;
 margin-bottom: 5%;
 padding-left: 5%;
@@ -1050,7 +1050,7 @@ padding-right: 5%;
 #skillstitle2 {
 text-align: center;
 color: #ffffff;
-font-size: 14px;
+font-size: 20px;
 padding-bottom: 10%;
 padding-left: 5%;
 padding-right: 5%;
@@ -1092,13 +1092,13 @@ padding-right: 5%;
 @media (min-width: 600px) {
 #skillstitle1 {
 padding-top: 5%;
-font-size: 32px;
+font-size: 28px;
 margin-bottom: 5%;
 }
 
 #skillstitle2 {
 padding-bottom: 5%;
-font-size: 16px;
+font-size: 20px;
 }
 
   #skillscontainer {
@@ -1116,12 +1116,12 @@ font-size: 16px;
   #skillstitle1 {
   padding-top: 5%;
   margin-bottom: 2.5%;
-  font-size: 32px;
+  font-size: 28px;
   }
 
   #skillstitle2 {
   padding-bottom: 5%;
-  font-size: 18px;
+  font-size: 20px;
   }
 
   #skillscontainer {
@@ -1138,13 +1138,13 @@ font-size: 16px;
 @media (min-width: 1200px) {
   #skillstitle1 {
   padding-top: 2.5%;
-  font-size: 34px;
+  font-size: 28px;
   margin-bottom: 2.5%;
   }
 
   #skillstitle2 {
   padding-bottom: 2.5%;
-  font-size: 18px;
+  font-size: 20px;
   }
 
   #skillscontainer {
