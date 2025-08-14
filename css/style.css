@@ -395,7 +395,7 @@ overflow:hidden;
   width: 100%;
   text-align: center;
   padding-top: 10%;
-  font-size: 30px;
+  font-size: 28px;
   font-family: 'Cormorant', serif;
   font-weight: 700;
   margin-bottom: 5%;
@@ -405,7 +405,7 @@ overflow:hidden;
 
 #homeportbtns {
   font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
+  font-size: 20px;
   padding-bottom: 10%;
   color: #ffffff;
   background: #000000;
@@ -454,7 +454,7 @@ overflow:hidden;
 }
 
 .portitem div:hover {
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(255, 255, 255, 0.9);
     color: rgba(0, 0, 0, 1);
 }
 
@@ -484,12 +484,12 @@ overflow:hidden;
   }
 
   #homeporttitle {
-    font-size: 32px;
+    font-size: 28px;
     padding-top: 5%;
   }
 
   #homeportbtns {
-    font-size: 16px;
+    font-size: 20px;
     padding-bottom: 5%;
   }
 
@@ -508,13 +508,13 @@ overflow:hidden;
   }
 
   #homeporttitle {
-    font-size: 32px;
+    font-size: 28px;
     padding-top: 5%;
     margin-bottom: 2.5%;
   }
 
   #homeportbtns {
-    font-size: 16px;
+    font-size: 20px;
     padding-bottom: 5%;
   }
 }
@@ -525,13 +525,13 @@ overflow:hidden;
   }
 
   #homeporttitle {
-    font-size: 34px;
+    font-size: 28px;
     padding-top: 2.5%;
     margin-bottom: 2.5%;
   }
 
   #homeportbtns {
-    font-size: 18px;
+    font-size: 20px;
     padding-bottom: 2.5%;
   }
 }
@@ -558,13 +558,13 @@ grid-column: 1;
 #quotetext {
   font-family: 'Cormorant', serif;
   margin-bottom: 5%;
-  font-size: 30px;
+  font-size: 28px;
   font-weight: 700;
 }
 
 #quotetext2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   margin-bottom: 5%;
 }
 
@@ -573,7 +573,7 @@ grid-column: 1;
 }
 
  #homequotebtn {
-  font-size: 16px;
+  font-size: 20px;
   border: solid #ffffff 2px;
   font-family: 'Montserrat', sans-serif;
   border-radius: 5px;
@@ -600,18 +600,18 @@ grid-column: 1;
 }
 
 #quotetext {
-  font-size: 32px;
+  font-size: 28px;
   margin-bottom: 5%;
 }
 
 #quotetext2 {
-font-size: 18px;
+font-size: 20px;
 margin-bottom: 5%;
 }
 
 
  #homequotebtn {
-  font-size: 18px;
+  font-size: 20px;
   width: 100%;
 }
 
@@ -631,12 +631,12 @@ margin-bottom: 5%;
 }
 
   #quotetext {
-    font-size: 32px;
+    font-size: 28px;
     margin-bottom: 2.5%;
   }
 
   #quotetext2 {
-    font-size: 18px;
+    font-size: 20px;
   }
 
    #homequotebtn {
@@ -655,7 +655,7 @@ margin-bottom: 5%;
   }
 
   #quotetext {
-    font-size: 34px;
+    font-size: 28px;
     margin-bottom: 2.5%;
   }
 
@@ -712,14 +712,14 @@ grid-template-columns: 50% 50%;
 }
 
 .hahead {
-font-size: 30px;
+font-size: 28px;
 margin-bottom: 5%;
 font-family: 'Cormorant', serif;
 font-weight: 700;
 }
 
 .hapara {
-font-size: 16px;
+font-size: 20px;
 }
 
 #hapara2 {
@@ -732,7 +732,7 @@ font-size: 16px;
 }
 
  .resumebtn {
-font-size: 16px;
+font-size: 20px;
 border: solid #000000 2px;
 border-radius: 5px;
 padding: 5px 5px 5px 5px;
@@ -771,11 +771,11 @@ opacity: 1;
 }
 
   .hahead {
-    font-size: 32px;
+    font-size: 28px;
   }
 
   .hapara {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .hbtncont {
@@ -785,7 +785,7 @@ opacity: 1;
    .resumebtn {
     grid-row: 1;
     grid-column: 1;
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 0%;
   }
 
@@ -818,11 +818,11 @@ opacity: 1;
 
   .hahead {
     margin-bottom: 2.5%;
-    font-size: 32px;
+    font-size: 28px;
   }
 
   .hapara {
-font-size: 18px;
+font-size: 20px;
   }
 
 
@@ -849,7 +849,7 @@ font-size: 18px;
   }
 
     .hahead {
-      font-size: 34px;
+      font-size: 28px;
       margin-bottom: 2.5%;
     }
 
@@ -879,14 +879,14 @@ font-size: 18px;
 }
 
 .foottitle {
-  font-size: 30px;
+  font-size: 28px;
   margin-bottom: 5%;
   font-family: 'Cormorant', serif;
   font-weight: 700;
 }
 
 .footpara {
-  font-size: 16px;
+  font-size: 20px;
   padding-bottom: 10%;
   width: 100%;
 }
@@ -939,11 +939,11 @@ font-size: 18px;
   }
 
   .foottitle {
-    font-size: 32px;
+    font-size: 28px;
   }
 
   .footpara {
-    font-size: 18px;
+    font-size: 20px;
     padding-bottom: 5%;
   }
 
@@ -977,12 +977,12 @@ font-size: 18px;
   }
 
   .foottitle {
-    font-size: 32px;
+    font-size: 28px;
     margin-bottom: 2.5%;
   }
 
   .footpara {
-    font-size: 18px;
+    font-size: 20px;
     padding-bottom: 5%;
   }
 
@@ -1016,7 +1016,7 @@ font-size: 18px;
   }
 
   .foottitle {
-    font-size: 34px;
+    font-size: 28px;
     margin-bottom: 2.5%;
   }
 
